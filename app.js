@@ -5,7 +5,7 @@ const swaggerUi = require('swagger-ui-express');
 const swaggerSpec = require('./swagger');
 
 
-const db = require('./database'); 
+const db = require('./database');
 
 // Middlewares
 app.use(bodyParser.json());

@@ -5,8 +5,6 @@
  *     Aluno:
  *       type: object
  *       properties:
- *         id:
- *           type: integer
  *         nome:
  *           type: string
  *         idade:
